@@ -29,3 +29,5 @@
     </SafeAreaView>
   );
 };
+const styles = StyleSheet.create({
+});
