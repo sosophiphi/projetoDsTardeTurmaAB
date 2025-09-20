@@ -22,3 +22,10 @@
           <SongItem title="Musica 6" />
           <SongItem title="Musica 7" />
         </View>
+        <TouchableOpacity style={styles.footer}>
+          <Text style={styles.footerText}>Ver discografia</Text>
+        </TouchableOpacity>
+      </ScrollView>
+    </SafeAreaView>
+  );
+};
