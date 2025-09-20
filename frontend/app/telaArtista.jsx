@@ -3,4 +3,8 @@
           <TouchableOpacity style={styles.followButton}>
             <Text style={styles.followButtonText}>Seguir</Text>
           </TouchableOpacity>
+          <View style={styles.actionButtons}>
+            <TouchableOpacity style={styles.iconButton}>
+              <Text style={styles.iconButtonText}>{'<>'}</Text>
+            </TouchableOpacity>
         </View>
