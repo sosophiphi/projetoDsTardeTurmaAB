@@ -12,4 +12,5 @@
             </TouchableOpacity>
           </View>
         </View>
+        <View style={styles.songListContainer}>
         </View>
