@@ -7,4 +7,9 @@
             <TouchableOpacity style={styles.iconButton}>
               <Text style={styles.iconButtonText}>{'<>'}</Text>
             </TouchableOpacity>
+            <TouchableOpacity style={styles.iconButton}>
+              <Text style={styles.iconButtonText}>{'>'}</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
         </View>
