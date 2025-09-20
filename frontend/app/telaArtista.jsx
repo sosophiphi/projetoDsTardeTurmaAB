@@ -66,4 +66,11 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     bottom: 20,
   },
+  actionBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 15,
+    backgroundColor: '#8B008B',
+  },
 });
