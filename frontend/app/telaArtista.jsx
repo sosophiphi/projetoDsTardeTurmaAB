@@ -42,4 +42,10 @@ const styles = StyleSheet.create({
     height: '100%',
     position: 'absolute',
   },
+  headerOverlay: {
+    ...StyleSheet.absoluteFillObject,
+    justifyContent: 'flex-end',
+    padding: 20,
+    paddingTop: 40,
+  },
 });
