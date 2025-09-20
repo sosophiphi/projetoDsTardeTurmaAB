@@ -13,4 +13,5 @@
           </View>
         </View>
         <View style={styles.songListContainer}>
+          <Text style={styles.popularTitle}>Popular</Text>
         </View>
