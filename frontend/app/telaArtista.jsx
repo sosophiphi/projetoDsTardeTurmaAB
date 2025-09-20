@@ -48,4 +48,12 @@ const styles = StyleSheet.create({
     padding: 20,
     paddingTop: 40,
   },
+  backButton: {
+    position: 'absolute',
+    top: 50,
+    left: 20,
+    backgroundColor: 'rgba(0,0,0,0.4)',
+    padding: 10,
+    borderRadius: 20,
+  },
 });
