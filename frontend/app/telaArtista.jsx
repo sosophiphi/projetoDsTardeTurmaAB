@@ -14,4 +14,8 @@
         </View>
         <View style={styles.songListContainer}>
           <Text style={styles.popularTitle}>Popular</Text>
+          <SongItem title="Musica 1" />
+          <SongItem title="Musica 2" />
+          <SongItem title="Musica 3" />
+          <SongItem title="Musica 4" />
         </View>
