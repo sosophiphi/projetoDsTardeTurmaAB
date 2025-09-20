@@ -18,4 +18,7 @@
           <SongItem title="Musica 2" />
           <SongItem title="Musica 3" />
           <SongItem title="Musica 4" />
+          <SongItem title="Musica 5" />
+          <SongItem title="Musica 6" />
+          <SongItem title="Musica 7" />
         </View>
