@@ -60,4 +60,10 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 20,
   },
+  bandName: {
+    color: '#fff',
+    fontSize: 24,
+    fontWeight: 'bold',
+    bottom: 20,
+  },
 });
